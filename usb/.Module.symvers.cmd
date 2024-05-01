@@ -1,0 +1,1 @@
+savedcmd_/home/kishore/codes/devdrv/usb/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/kishore/codes/devdrv/usb/Module.symvers -T /home/kishore/codes/devdrv/usb/modules.order -i Module.symvers -e 
