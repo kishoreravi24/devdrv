@@ -11,7 +11,7 @@
 
 ### commands
 ```
-sudo insmode hellomodule.ko
+sudo insmod hellomodule.ko
 lsmod | grep hellomodule
 dmesg | tail
 sudo rmmod hellomodule
