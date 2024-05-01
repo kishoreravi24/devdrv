@@ -1,0 +1,1 @@
+savedcmd_/home/kishore/codes/devdrv/helloModule/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/kishore/codes/devdrv/helloModule/Module.symvers -T /home/kishore/codes/devdrv/helloModule/modules.order -i Module.symvers -e 
